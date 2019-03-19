@@ -1,1 +1,1 @@
-web: gunicorn Plotly.app:app
+web: gunicorn app:app
